@@ -45,6 +45,7 @@ public class Main {
         System.out.println("git branch");
         System.out.println("git switch");
 
+<<<<<<< HEAD
         System.out.println("Yohn Sebastián Ramírez Silva");
         System.out.println("Jugar videojuegos");
         System.out.println("Gata - Isis");
@@ -67,7 +68,12 @@ public class Main {
 
         System.out.println("Andres Camilo Patiño Serna");
         System.out.println("Jugar");
-        System.out.println("Ganto y perro - Roberto y Tomasa");
+        System.out.println("Gato y perro - Roberto y Tomasa");
 
+=======
+        System.out.println("javier bravo");
+        System.out.println(" gym");
+        System.out.println("no tengo mascota");
+>>>>>>> 2596088bbc702aa2a871607919f00943d9270add
     }
 }
