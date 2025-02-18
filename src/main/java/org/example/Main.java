@@ -65,5 +65,9 @@ public class Main {
         System.out.println("👨🏻‍💻PROGRAMAR Y ESCUCHAR MUSICA🎵");
         System.out.println("🐈 GATO - SABATH");
 
+        System.out.println("Andres Camilo Patiño Serna");
+        System.out.println("Jugar");
+        System.out.println("Ganto y perro - Roberto y Tomasa");
+
     }
 }
