@@ -1,8 +1,12 @@
 package org.example;
 
+
+public class git brancMain {
+
 import java.sql.SQLOutput;
 
 public class Main {
+
     public static void main(String[] args) {
 
 
@@ -49,14 +53,17 @@ public class Main {
         System.out.println("git branch");
         System.out.println("git switch");
 
+        System.out.println("Daniel Felipe Caicedo Galvis");
+        System.out.println("Jugar Futbol");
+        System.out.println("NO");
+
         System.out.println("Jeimy Alejandra Herrera Rincon");
         System.out.println("Lectura");
         System.out.println("Dos Gatos - Suki y Kitty");
->
+
         System.out.println("DANIEL ALEJANDRO VALENCIA");
         System.out.println("👨🏻‍💻PROGRAMAR Y ESCUCHAR MUSICA🎵");
         System.out.println("🐈 GATO - SABATH");
-
 
     }
 }
