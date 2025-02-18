@@ -1,0 +1,22 @@
+Index: EjercicioGit/src/main/java/org/example/Main.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package org.example;\r\n\r\npublic class Main {\r\n    public static void main(String[] args) {\r\n\r\n        System.out.println(\"Hola Mundo\");\r\n\r\n        System.out.println(\"Comandos git\");\r\n\r\n        System.out.println(\"COMANDOS GIT\");\r\n        System.out.println(\"git status\");\r\n        System.out.println(\"git add .\");\r\n        System.out.println(\"git commit -m \");\r\n        System.out.println(\"git push origin nombrerama\");\r\n        System.out.println(\"git branch\");\r\n        System.out.println(\"git switch\");\r\n    }\r\n}
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/EjercicioGit/src/main/java/org/example/Main.java b/EjercicioGit/src/main/java/org/example/Main.java
+--- a/EjercicioGit/src/main/java/org/example/Main.java	(revision 3eb6837c4be2b54dc69996a18d3696e10bd60934)
++++ b/EjercicioGit/src/main/java/org/example/Main.java	(date 1739839542339)
+@@ -14,5 +14,10 @@
+         System.out.println("git push origin nombrerama");
+         System.out.println("git branch");
+         System.out.println("git switch");
++
++        System.out.println("JHONIER DANIEL ABELLO ABRIL");
++        System.out.println("JUGAR FUTBOL");
++        System.out.println("No tengo mascota...");
++
+     }
+ }
+\ No newline at end of file
