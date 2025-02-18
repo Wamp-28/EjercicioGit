@@ -14,5 +14,10 @@ public class Main {
         System.out.println("git push origin nombrerama");
         System.out.println("git branch");
         System.out.println("git switch");
+
+
+        System.out.println("JOAN SEBASTIAN NOVOA HERNANDEZ");
+        System.out.println("DORMIR");
+        System.out.println("GATA - MAPACHE");
     }
 }
