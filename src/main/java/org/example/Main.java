@@ -18,6 +18,10 @@ public class Main {
         System.out.println("git switch");
 
 
+        System.out.println("Daniel Felipe Leon Higuera");
+        System.out.println("Dormir");
+        System.out.println("Perro-Lucas");
+
         System.out.println("WILLIAM ALEXANDER MATALLANA PORRAS");
         System.out.println("LEER");
         System.out.println("PERRO - SIMONA");
@@ -25,6 +29,7 @@ public class Main {
         System.out.println("DANIEL ALEJANDRO VALENCIA");
         System.out.println("👨🏻‍💻PROGRAMAR Y ESCUCHAR MUSICA🎵");
         System.out.println("🐈 GATO - SABATH");
+
 
     }
 }
