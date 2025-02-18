@@ -37,6 +37,10 @@ public class Main {
         System.out.println("LEER");
         System.out.println("PERRO - SIMONA");
 
+         System.out.println("YEIMMY PAOLA RUBIO HERNANDEZ");
+        System.out.println("VER PELICULAS");
+        System.out.println("GATO - ZEUS");
+
         System.out.println("COMANDOS GIT");
         System.out.println("git status");
         System.out.println("git add .");
@@ -48,7 +52,7 @@ public class Main {
         System.out.println("Jeimy Alejandra Herrera Rincon");
         System.out.println("Lectura");
         System.out.println("Dos Gatos - Suki y Kitty");
-
+>
         System.out.println("DANIEL ALEJANDRO VALENCIA");
         System.out.println("👨🏻‍💻PROGRAMAR Y ESCUCHAR MUSICA🎵");
         System.out.println("🐈 GATO - SABATH");
