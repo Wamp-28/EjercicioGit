@@ -15,13 +15,12 @@ public class Main {
         System.out.println("git branch");
         System.out.println("git switch");
 
-
         System.out.println("Santiago Alarcon Farias");
         System.out.println("Jugar Tenis");
         System.out.println("No tengo Mascota");
 
-
-
-
+        System.out.println("DANIEL ALEJANDRO VALENCIA");
+        System.out.println("👨🏻‍💻PROGRAMAR Y ESCUCHAR MUSICA🎵");
+        System.out.println("🐈 GATO - SABATH");
     }
 }
