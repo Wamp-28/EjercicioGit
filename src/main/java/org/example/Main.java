@@ -14,5 +14,14 @@ public class Main {
         System.out.println("git push origin nombrerama");
         System.out.println("git branch");
         System.out.println("git switch");
+
+
+        System.out.println("Nicolas Mayorga Romero");
+        System.out.println("Micro");
+        System.out.println("Una Alaska Malamute Alisha");
+
+
+
+
     }
 }
