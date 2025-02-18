@@ -33,5 +33,9 @@ public class Main {
         System.out.println("DANIEL ALEJANDRO VALENCIA");
         System.out.println("👨🏻‍💻PROGRAMAR Y ESCUCHAR MUSICA🎵");
         System.out.println("🐈 GATO - SABATH");
+
+        System.out.println("DIEGO SARMIENTO");
+        System.out.println(" VIDEOJUEGOS ");
+        System.out.println("🐈 GATO - PERROS");
     }
 }
