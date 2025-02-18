@@ -53,6 +53,11 @@ public class Main {
         System.out.println("git branch");
         System.out.println("git switch");
 
+
+        System.out.println("JOSE FABIO ROZO ROZO");
+        System.out.println("ASTROFOTOGRAFÍA");
+        System.out.println("PERROS - TROSKY y COCO");
+
         System.out.println("Daniel Felipe Caicedo Galvis");
         System.out.println("Jugar Futbol");
         System.out.println("NO");
@@ -64,6 +69,7 @@ public class Main {
         System.out.println("DANIEL ALEJANDRO VALENCIA");
         System.out.println("👨🏻‍💻PROGRAMAR Y ESCUCHAR MUSICA🎵");
         System.out.println("🐈 GATO - SABATH");
+
 
     }
 }
