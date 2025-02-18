@@ -19,6 +19,10 @@ public class Main {
         System.out.println("git branch");
         System.out.println("git switch");
 
+        System.out.println("Juan David Ramirez 👻");
+        System.out.println("Gym y escuchar música");
+        System.out.println("Gata gorda 😼- máquina de matar");
+
         System.out.println("Santiago Alarcon Farias");
         System.out.println("Jugar Tenis");
         System.out.println("No tengo Mascota");
@@ -34,7 +38,5 @@ public class Main {
         System.out.println("DANIEL ALEJANDRO VALENCIA");
         System.out.println("👨🏻‍💻PROGRAMAR Y ESCUCHAR MUSICA🎵");
         System.out.println("🐈 GATO - SABATH");
-
-
     }
 }
