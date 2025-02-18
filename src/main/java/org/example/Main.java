@@ -5,7 +5,9 @@ import java.sql.SQLOutput;
 public class Main {
     public static void main(String[] args) {
 
-        System.out.println("Hola Mundo");
+        System.out.println("Yennifer Giselle Torres Rincon");
+        System.out.println("Bailar");
+        System.out.println("Conejo-Copito, Pajaro-Blue, Perro-Loky");
 
         System.out.println("Comandos git");
 
