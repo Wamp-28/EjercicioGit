@@ -45,6 +45,11 @@ public class Main {
         System.out.println("git branch");
         System.out.println("git switch");
 
+
+        System.out.println("Nicolas Mayorga Romero");
+        System.out.println("Micro");
+        System.out.println("Una Alaska Malamute Alisha");
+
         System.out.println("Yohn Sebastián Ramírez Silva");
         System.out.println("Jugar videojuegos");
         System.out.println("Gata - Isis");
@@ -72,7 +77,5 @@ public class Main {
         System.out.println("Andres Camilo Patiño Serna");
         System.out.println("Jugar");
         System.out.println("Ganto y perro - Roberto y Tomasa");
-
-
     }
 }
