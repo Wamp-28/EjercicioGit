@@ -1,10 +1,5 @@
 package org.example;
 
-
-public class git brancMain {
-
-import java.sql.SQLOutput;
-
 public class Main {
 
     public static void main(String[] args) {
@@ -13,9 +8,6 @@ public class Main {
         System.out.println("SERGIO ZAMORA");
         System.out.println("Me gusta leer");
         System.out.println("Bruno");
-
-
-
 
         System.out.println("Yennifer Giselle Torres Rincon");
         System.out.println("Bailar");
@@ -53,7 +45,10 @@ public class Main {
         System.out.println("git branch");
         System.out.println("git switch");
 
-
+        System.out.println("Yohn Sebastián Ramírez Silva");
+        System.out.println("Jugar videojuegos");
+        System.out.println("Gata - Isis");
+      
         System.out.println("JOSE FABIO ROZO ROZO");
         System.out.println("ASTROFOTOGRAFÍA");
         System.out.println("PERROS - TROSKY y COCO");
@@ -69,7 +64,6 @@ public class Main {
         System.out.println("DANIEL ALEJANDRO VALENCIA");
         System.out.println("👨🏻‍💻PROGRAMAR Y ESCUCHAR MUSICA🎵");
         System.out.println("🐈 GATO - SABATH");
-
 
     }
 }
