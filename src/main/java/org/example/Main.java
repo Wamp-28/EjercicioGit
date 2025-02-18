@@ -5,7 +5,7 @@ public class Main {
 
         System.out.println("Yennifer Giselle Torres Rincon");
         System.out.println("Bailar");
-        System.out.println("Conejo-Copito, Pajaro-Blue");
+        System.out.println("Conejo-Copito, Pajaro-Blue, Perro-Loky");
 
     }
 }
