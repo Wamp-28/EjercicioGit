@@ -14,5 +14,9 @@ public class Main {
         System.out.println("git push origin nombrerama");
         System.out.println("git branch");
         System.out.println("git switch");
+
+        System.out.println("Juan David Ramirez 👻");
+        System.out.println("Gym y escuchar música");
+        System.out.println("Gata gorda 😼- máquina de matar");
     }
 }
