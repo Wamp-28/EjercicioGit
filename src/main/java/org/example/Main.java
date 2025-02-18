@@ -30,8 +30,21 @@ public class Main {
         System.out.println("LEER");
         System.out.println("PERRO - SIMONA");
 
+        System.out.println("COMANDOS GIT");
+        System.out.println("git status");
+        System.out.println("git add .");
+        System.out.println("git commit -m ");
+        System.out.println("git push origin nombrerama");
+        System.out.println("git branch");
+        System.out.println("git switch");
+
+        System.out.println("Jeimy Alejandra Herrera Rincon");
+        System.out.println("Lectura");
+        System.out.println("Dos Gatos - Suki y Kitty");
+
         System.out.println("DANIEL ALEJANDRO VALENCIA");
         System.out.println("👨🏻‍💻PROGRAMAR Y ESCUCHAR MUSICA🎵");
         System.out.println("🐈 GATO - SABATH");
+
     }
 }
