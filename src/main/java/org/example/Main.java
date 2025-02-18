@@ -6,9 +6,17 @@ public class Main {
     public static void main(String[] args) {
 
 
+        System.out.println("Yennifer Giselle Torres Rincon");
+        System.out.println("Bailar");
+        System.out.println("Conejo-Copito, Pajaro-Blue, Perro-Loky");
+
         System.out.println("JOAN SEBASTIAN NOVOA HERNANDEZ");
         System.out.println("DORMIR");
         System.out.println("GATA - MAPACHE");
+
+        System.out.println("Juan David Ramirez 👻");
+        System.out.println("Gym y escuchar música");
+        System.out.println("Gata gorda 😼- máquina de matar");
 
         System.out.println("Santiago Alarcon Farias");
         System.out.println("Jugar Tenis");
@@ -25,7 +33,5 @@ public class Main {
         System.out.println("DANIEL ALEJANDRO VALENCIA");
         System.out.println("👨🏻‍💻PROGRAMAR Y ESCUCHAR MUSICA🎵");
         System.out.println("🐈 GATO - SABATH");
-
-
     }
 }
