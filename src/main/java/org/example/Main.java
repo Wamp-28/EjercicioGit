@@ -3,16 +3,9 @@ package org.example;
 public class Main {
     public static void main(String[] args) {
 
-        System.out.println("Hola Mundo");
+        System.out.println("Yennifer Giselle Torres Rincon");
+        System.out.println("Bailar");
+        System.out.println("Conejo-Copito, Pajaro-Blue");
 
-        System.out.println("Comandos git");
-
-        System.out.println("COMANDOS GIT");
-        System.out.println("git status");
-        System.out.println("git add .");
-        System.out.println("git commit -m ");
-        System.out.println("git push origin nombrerama");
-        System.out.println("git branch");
-        System.out.println("git switch");
     }
 }
