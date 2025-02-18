@@ -17,6 +17,6 @@ public class Main {
 
         System.out.println("Jeimy Alejandra Herrera Rincon");
         System.out.println("Lectura");
-        System.out.println("Gato - Suki");
+        System.out.println("Dos Gatos - Suki y Kitty");
     }
 }
