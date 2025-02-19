@@ -72,5 +72,9 @@ public class Main {
         System.out.println("Jhonattan Pineda Cardona");
         System.out.println("Jugar");
         System.out.println("rata");
+
+        System.out.println("William Alfredo Rojas Rincon");
+        System.out.println("Depòrtes");
+        System.out.println("Borona");
     }
 }
